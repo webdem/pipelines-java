@@ -1,3 +1,4 @@
+[![Build Status](https://demcost.visualstudio.com/POCs/_apis/build/status/webdem.pipelines-java?branchName=master)](https://demcost.visualstudio.com/POCs/_build/latest?definitionId=11&branchName=master)
 
 # Contributing
 
